@@ -18,4 +18,13 @@
 
 ## Начать сейчас
 
-[Урок 1](/lessons/01-first-10-minutes.md)
+[Урок 1](/lessons/01-first-10-minutes)
+[Урок 2](/lessons/02-simple-vs-systemic)
+[Урок 3](/lessons/03-safe-rollback-checklist)
+[Урок 4](/lessons/04-three-pm-questions)
+[Урок 5](/lessons/05-when-logs-overwhelm)
+[Урок 6](/lessons/06-legacy-no-tests)
+[Урок 7](/lessons/07-readable-incident-report)
+[Урок 8](/lessons/08-say-no-tech-debt)
+[Урок 9](/lessons/09-race-payments)
+[Урок 10](/lessons/10-proactive-monitoring)
