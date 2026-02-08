@@ -1,3 +1,4 @@
+<script src="/lessons/gtm.html"></script>
 # Инженерное мышление в продакшене
 
 ## Урок 7: Incident report который читают
