@@ -1,5 +1,5 @@
 <script src="./gtm.html"></script>
-<script src="/lessons/gtm.html"></script>
+
 # Инженерное мышление в продакшене
 
 ## Урок 6: Легаси код без тестов план действий
