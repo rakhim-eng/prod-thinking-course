@@ -18,13 +18,13 @@
 
 ## Начать сейчас
 
-[Урок 1](/lessons/01-first-10-minutes)
-[Урок 2](/lessons/02-simple-vs-systemic)
-[Урок 3](/lessons/03-safe-rollback-checklist)
-[Урок 4](/lessons/04-three-pm-questions)
-[Урок 5](/lessons/05-when-logs-overwhelm)
-[Урок 6](/lessons/06-legacy-no-tests)
-[Урок 7](/lessons/07-readable-incident-report)
-[Урок 8](/lessons/08-say-no-tech-debt)
-[Урок 9](/lessons/09-race-payments)
-[Урок 10](/lessons/10-proactive-monitoring)
+[Урок 1: Первые 10 минут](/lessons/01-first-10-minutes)
+[Урок 2: Простая vs системная](/lessons/02-simple-vs-systemic)
+[Урок 3: Чеклист отката](/lessons/03-safe-rollback-checklist)
+[Урок 4: Три вопроса PM](/lessons/04-three-pm-questions)
+[Урок 5: Логи много](/lessons/05-when-logs-overwhelm)
+[Урок 6: Легаси без тестов](/lessons/06-legacy-no-tests)
+[Урок 7: Incident report](/lessons/07-readable-incident-report)
+[Урок 8: Нет техдолгу](/lessons/08-say-no-tech-debt)
+[Урок 9: Race в платежах](/lessons/09-race-payments)
+[Урок 10: Мониторинг заранее](/lessons/10-proactive-monitoring)
